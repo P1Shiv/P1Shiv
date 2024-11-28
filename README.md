@@ -13,6 +13,7 @@ Looking forward I am seeking to further advance my technical skills to transitio
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [shiv17patel@outlook.com](mailto:shiv17patel@outlook.com)
+* 🤝  I'm open to collaborating on Sports projects
 
 
 ### Skills
