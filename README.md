@@ -38,3 +38,6 @@ Looking forward I am seeking to further advance my technical skills to transitio
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P1Shiv&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/2fHFLyzAQYlguX5q0DfKlD)
+
+
