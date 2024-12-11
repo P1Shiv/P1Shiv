@@ -9,7 +9,7 @@ A MSc graduate with a passion and keen interest in sports and individuals. Holdi
 
 I am currently undertaking an intensive 12-week Digital Skills bootcamp as a data technician with Just IT training. This has presented me the opportunity to build on existing and develop new skills to pursue a career as an analyst. Through this I have been developing my expertise in areas such as Excel, SQL, Tableau, PowerBI, Python and R, which have been consolidated through projects and posted onto my portfolio. 
 
-Looking forward I am seeking to further advance my technical skills to transition into a data or performance analyst role and work in an environment that presents fresh challenges and complex projects that allow me to apply my abilities to problem solve and offer useful solutions. An ideal role would be within a sporting context be that a professional club or an organisation.
+Looking forward I am seeking to further advance my technical skills to transition into a data or performance analyst role and work in an environment that presents fresh challenges and complex projects that allow me to apply my abilities to problem solve and offer useful solutions. 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [shiv17patel@outlook.com](mailto:shiv17patel@outlook.com)
